@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T18:49:38.961Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="z74JKYRCYLYhYxZ4Ymu5" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-19T19:03:07.270Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YKVxBMG_8J2rrSaEdD82" version="20.8.20" type="github">
   <diagram name="Página-1" id="EEguB05fJXgAn4JIiaYl">
-    <mxGraphModel dx="891" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1337" dy="1819" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1588,7 +1588,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lHztdqe-MXuUIaN9VFY5-20" value="NombreDelivery    VARCHAR(100)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="lHztdqe-MXuUIaN9VFY5-18" vertex="1">
+        <mxCell id="lHztdqe-MXuUIaN9VFY5-20" value="NombreMotorizado   VARCHAR(100)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" parent="lHztdqe-MXuUIaN9VFY5-18" vertex="1">
           <mxGeometry x="30" width="210" height="30" as="geometry">
             <mxRectangle width="210" height="30" as="alternateBounds" />
           </mxGeometry>
